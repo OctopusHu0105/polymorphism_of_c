@@ -1,0 +1,3 @@
+/home/zhanghu/esp/polymorphism_of_c/examples/polymorphism/CMakeFiles/rebuild_cache.dir
+/home/zhanghu/esp/polymorphism_of_c/examples/polymorphism/CMakeFiles/edit_cache.dir
+/home/zhanghu/esp/polymorphism_of_c/examples/polymorphism/CMakeFiles/polymorphism.dir
